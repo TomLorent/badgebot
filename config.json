@@ -1,0 +1,17 @@
+{
+  "bot": {
+"token" : "NzU1ODU1OTg0MTY0ODY0MDEx.X2JXvQ.WRkpJWw9BL4y9vYK1UVCP5usbT8"
+  },
+  "roles": {
+    "hypesquadbalance": "880418254219280386",
+    "hypesquadbravery": "880418254219280386",
+    "hypesquadbrilliance": "880418254219280386",
+    "discordstaff": "880418254219280386",
+    "hypesquadevents": "880418254219280386",
+    "botdeveloper": "880402349468823572",
+    "earlysupporter": "880402278178258954",
+    "bughunterlevel1": "880418254219280386",
+    "bughunterlevel2": "880418254219280386",
+    "discordpartner": "880418254219280386"
+  }
+}
